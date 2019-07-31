@@ -1,0 +1,2480 @@
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60998
+Total writes to disk: 19651
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60101
+Total writes to disk: 19463
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59543
+Total writes to disk: 18977
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59273
+Total writes to disk: 18638
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59122
+Total writes to disk: 18224
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58401
+Total writes to disk: 17525
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58160
+Total writes to disk: 17179
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57800
+Total writes to disk: 17046
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57911
+Total writes to disk: 17153
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57852
+Total writes to disk: 17169
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57064
+Total writes to disk: 16755
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 56600
+Total writes to disk: 16499
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 56140
+Total writes to disk: 16325
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55949
+Total writes to disk: 15893
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55778
+Total writes to disk: 15839
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55497
+Total writes to disk: 15778
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55528
+Total writes to disk: 15692
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55527
+Total writes to disk: 15722
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55336
+Total writes to disk: 15572
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55269
+Total writes to disk: 15406
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55253
+Total writes to disk: 15384
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55408
+Total writes to disk: 15321
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55420
+Total writes to disk: 15260
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55524
+Total writes to disk: 15062
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55354
+Total writes to disk: 14941
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55565
+Total writes to disk: 14879
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55592
+Total writes to disk: 14792
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55752
+Total writes to disk: 14737
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55732
+Total writes to disk: 14677
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55624
+Total writes to disk: 14408
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55574
+Total writes to disk: 14323
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55700
+Total writes to disk: 14261
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55766
+Total writes to disk: 14287
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55951
+Total writes to disk: 14255
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 55899
+Total writes to disk: 14170
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 56114
+Total writes to disk: 14084
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 56219
+Total writes to disk: 14030
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 56342
+Total writes to disk: 14018
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 56685
+Total writes to disk: 14040
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 56823
+Total writes to disk: 14083
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57024
+Total writes to disk: 14028
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57109
+Total writes to disk: 13980
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57149
+Total writes to disk: 13961
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57127
+Total writes to disk: 13957
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57400
+Total writes to disk: 13980
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57384
+Total writes to disk: 13884
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57600
+Total writes to disk: 13908
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57810
+Total writes to disk: 13921
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 57595
+Total writes to disk: 13852
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58015
+Total writes to disk: 14061
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58015
+Total writes to disk: 14143
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58140
+Total writes to disk: 14279
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58140
+Total writes to disk: 14215
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58020
+Total writes to disk: 13991
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58393
+Total writes to disk: 13916
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58215
+Total writes to disk: 13833
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58266
+Total writes to disk: 13962
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58470
+Total writes to disk: 14110
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58746
+Total writes to disk: 14183
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58184
+Total writes to disk: 14037
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58662
+Total writes to disk: 13902
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58722
+Total writes to disk: 13698
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58569
+Total writes to disk: 13804
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58519
+Total writes to disk: 13947
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58592
+Total writes to disk: 13797
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58774
+Total writes to disk: 13857
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59022
+Total writes to disk: 13910
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58904
+Total writes to disk: 13899
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 58915
+Total writes to disk: 14028
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59022
+Total writes to disk: 13822
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59169
+Total writes to disk: 13616
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59196
+Total writes to disk: 13793
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59169
+Total writes to disk: 14100
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59010
+Total writes to disk: 13829
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59179
+Total writes to disk: 13870
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59179
+Total writes to disk: 13663
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59471
+Total writes to disk: 13953
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59431
+Total writes to disk: 13626
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59652
+Total writes to disk: 13848
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59684
+Total writes to disk: 13759
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60148
+Total writes to disk: 14030
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59871
+Total writes to disk: 13854
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59817
+Total writes to disk: 13579
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59899
+Total writes to disk: 13824
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60050
+Total writes to disk: 13886
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60004
+Total writes to disk: 13757
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60115
+Total writes to disk: 13859
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60093
+Total writes to disk: 13731
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59979
+Total writes to disk: 13772
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59824
+Total writes to disk: 13742
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60117
+Total writes to disk: 13649
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60653
+Total writes to disk: 13934
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 59939
+Total writes to disk: 13674
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60489
+Total writes to disk: 13749
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60367
+Total writes to disk: 13476
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60527
+Total writes to disk: 13507
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60806
+Total writes to disk: 13707
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60936
+Total writes to disk: 13804
+Algorithm: AGING
+Number of frames: 4
+Total memory accesses: 515683
+Total page faults: 60803
+Total writes to disk: 13359
+
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 37768
+Total writes to disk: 8501
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 28742
+Total writes to disk: 6345
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 26650
+Total writes to disk: 6217
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 25298
+Total writes to disk: 5892
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 23704
+Total writes to disk: 5530
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 23372
+Total writes to disk: 5638
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22328
+Total writes to disk: 5333
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22456
+Total writes to disk: 5722
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22805
+Total writes to disk: 6051
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22870
+Total writes to disk: 6275
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22880
+Total writes to disk: 6543
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22613
+Total writes to disk: 6616
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22478
+Total writes to disk: 6654
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22326
+Total writes to disk: 6675
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22400
+Total writes to disk: 6765
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22480
+Total writes to disk: 6898
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22514
+Total writes to disk: 6947
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22417
+Total writes to disk: 6873
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22471
+Total writes to disk: 6949
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22484
+Total writes to disk: 6947
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22443
+Total writes to disk: 6958
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22471
+Total writes to disk: 6895
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22401
+Total writes to disk: 6919
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22407
+Total writes to disk: 6893
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22321
+Total writes to disk: 6832
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22370
+Total writes to disk: 6855
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22436
+Total writes to disk: 6864
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22426
+Total writes to disk: 6828
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22469
+Total writes to disk: 6849
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22400
+Total writes to disk: 6799
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22413
+Total writes to disk: 6779
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22392
+Total writes to disk: 6789
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22451
+Total writes to disk: 6779
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22426
+Total writes to disk: 6744
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22426
+Total writes to disk: 6750
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22427
+Total writes to disk: 6738
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22478
+Total writes to disk: 6717
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22378
+Total writes to disk: 6738
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22327
+Total writes to disk: 6662
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22331
+Total writes to disk: 6642
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22435
+Total writes to disk: 6718
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22331
+Total writes to disk: 6690
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22462
+Total writes to disk: 6697
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22430
+Total writes to disk: 6696
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22445
+Total writes to disk: 6695
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22540
+Total writes to disk: 6697
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22463
+Total writes to disk: 6694
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22468
+Total writes to disk: 6683
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22483
+Total writes to disk: 6667
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22548
+Total writes to disk: 6654
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22564
+Total writes to disk: 6690
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22526
+Total writes to disk: 6642
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22673
+Total writes to disk: 6686
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22644
+Total writes to disk: 6653
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22625
+Total writes to disk: 6665
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22604
+Total writes to disk: 6684
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22658
+Total writes to disk: 6653
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22737
+Total writes to disk: 6687
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22712
+Total writes to disk: 6655
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22746
+Total writes to disk: 6690
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22834
+Total writes to disk: 6670
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22899
+Total writes to disk: 6684
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22771
+Total writes to disk: 6665
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22801
+Total writes to disk: 6653
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22779
+Total writes to disk: 6660
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22846
+Total writes to disk: 6663
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22849
+Total writes to disk: 6672
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22925
+Total writes to disk: 6661
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22854
+Total writes to disk: 6647
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22859
+Total writes to disk: 6624
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22838
+Total writes to disk: 6611
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22844
+Total writes to disk: 6595
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22831
+Total writes to disk: 6579
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22938
+Total writes to disk: 6610
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22829
+Total writes to disk: 6599
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22839
+Total writes to disk: 6567
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22901
+Total writes to disk: 6570
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22766
+Total writes to disk: 6490
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22885
+Total writes to disk: 6534
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22830
+Total writes to disk: 6496
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22817
+Total writes to disk: 6482
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22803
+Total writes to disk: 6478
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22847
+Total writes to disk: 6492
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22852
+Total writes to disk: 6470
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 23011
+Total writes to disk: 6484
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22964
+Total writes to disk: 6457
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22810
+Total writes to disk: 6381
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 23009
+Total writes to disk: 6454
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22886
+Total writes to disk: 6379
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22827
+Total writes to disk: 6362
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22991
+Total writes to disk: 6377
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 23041
+Total writes to disk: 6362
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 22948
+Total writes to disk: 6359
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 23027
+Total writes to disk: 6381
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 23088
+Total writes to disk: 6404
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 23049
+Total writes to disk: 6403
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 23141
+Total writes to disk: 6360
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 23138
+Total writes to disk: 6390
+Algorithm: AGING
+Number of frames: 8
+Total memory accesses: 515683
+Total page faults: 23075
+Total writes to disk: 6321
+
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 36518
+Total writes to disk: 8017
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 27754
+Total writes to disk: 5839
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 24448
+Total writes to disk: 5167
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 22508
+Total writes to disk: 4675
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 21002
+Total writes to disk: 4363
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 19626
+Total writes to disk: 3918
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 17267
+Total writes to disk: 3230
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 15509
+Total writes to disk: 2790
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 16032
+Total writes to disk: 3245
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 15997
+Total writes to disk: 3324
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 15177
+Total writes to disk: 3310
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 14781
+Total writes to disk: 3182
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 14605
+Total writes to disk: 3183
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 13856
+Total writes to disk: 2932
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 13471
+Total writes to disk: 2702
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 10804
+Total writes to disk: 2059
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 10593
+Total writes to disk: 2060
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 10189
+Total writes to disk: 2101
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 9849
+Total writes to disk: 2098
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 9476
+Total writes to disk: 2005
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 9226
+Total writes to disk: 1965
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 8936
+Total writes to disk: 1902
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 8802
+Total writes to disk: 1892
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 8791
+Total writes to disk: 1895
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 8598
+Total writes to disk: 1888
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 8590
+Total writes to disk: 1905
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 8597
+Total writes to disk: 1888
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 8253
+Total writes to disk: 1869
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7683
+Total writes to disk: 1853
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7576
+Total writes to disk: 1868
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7454
+Total writes to disk: 1856
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7437
+Total writes to disk: 1861
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7267
+Total writes to disk: 1850
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7304
+Total writes to disk: 1856
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7240
+Total writes to disk: 1871
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7335
+Total writes to disk: 1906
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7178
+Total writes to disk: 1895
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7196
+Total writes to disk: 1910
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7184
+Total writes to disk: 1926
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7165
+Total writes to disk: 1926
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7158
+Total writes to disk: 1935
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7143
+Total writes to disk: 1930
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7020
+Total writes to disk: 1937
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6918
+Total writes to disk: 1940
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6956
+Total writes to disk: 1931
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 7002
+Total writes to disk: 1942
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6932
+Total writes to disk: 1959
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6995
+Total writes to disk: 1965
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6978
+Total writes to disk: 1959
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6977
+Total writes to disk: 1972
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6888
+Total writes to disk: 1951
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6828
+Total writes to disk: 1956
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6793
+Total writes to disk: 1949
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6821
+Total writes to disk: 1970
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6826
+Total writes to disk: 1953
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6827
+Total writes to disk: 1973
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6714
+Total writes to disk: 1982
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6706
+Total writes to disk: 1952
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6667
+Total writes to disk: 1948
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6665
+Total writes to disk: 1965
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6616
+Total writes to disk: 1948
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6699
+Total writes to disk: 1975
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6618
+Total writes to disk: 1986
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6652
+Total writes to disk: 1979
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6609
+Total writes to disk: 1980
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6481
+Total writes to disk: 1986
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6580
+Total writes to disk: 1983
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6444
+Total writes to disk: 1988
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6485
+Total writes to disk: 2004
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6386
+Total writes to disk: 1973
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6427
+Total writes to disk: 1963
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6378
+Total writes to disk: 1984
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6349
+Total writes to disk: 1985
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6319
+Total writes to disk: 1982
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6361
+Total writes to disk: 1991
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6350
+Total writes to disk: 1984
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6295
+Total writes to disk: 1987
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6297
+Total writes to disk: 1987
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6288
+Total writes to disk: 1993
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6240
+Total writes to disk: 1969
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6278
+Total writes to disk: 1979
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6257
+Total writes to disk: 1985
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6252
+Total writes to disk: 1971
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6197
+Total writes to disk: 1993
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6252
+Total writes to disk: 1999
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6232
+Total writes to disk: 1995
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6183
+Total writes to disk: 1989
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6153
+Total writes to disk: 1980
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6152
+Total writes to disk: 1974
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6184
+Total writes to disk: 1992
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6154
+Total writes to disk: 1988
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6140
+Total writes to disk: 1977
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6137
+Total writes to disk: 1980
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6094
+Total writes to disk: 1967
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6114
+Total writes to disk: 1969
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6070
+Total writes to disk: 1983
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6082
+Total writes to disk: 1975
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6093
+Total writes to disk: 1967
+Algorithm: AGING
+Number of frames: 16
+Total memory accesses: 515683
+Total page faults: 6035
+Total writes to disk: 1967
+
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 30838
+Total writes to disk: 5859
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 23394
+Total writes to disk: 4163
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 21165
+Total writes to disk: 4077
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 19726
+Total writes to disk: 3720
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 18651
+Total writes to disk: 3356
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 17748
+Total writes to disk: 3186
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 15579
+Total writes to disk: 2601
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 13949
+Total writes to disk: 2200
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 14461
+Total writes to disk: 2602
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 14588
+Total writes to disk: 2716
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 13792
+Total writes to disk: 2671
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 13507
+Total writes to disk: 2652
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 13361
+Total writes to disk: 2660
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 12775
+Total writes to disk: 2502
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 12510
+Total writes to disk: 2289
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 9881
+Total writes to disk: 1683
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 9675
+Total writes to disk: 1661
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 9188
+Total writes to disk: 1686
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 8673
+Total writes to disk: 1502
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 8328
+Total writes to disk: 1402
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 8013
+Total writes to disk: 1343
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 7736
+Total writes to disk: 1322
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 7624
+Total writes to disk: 1326
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 7166
+Total writes to disk: 1224
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 7021
+Total writes to disk: 1214
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 6971
+Total writes to disk: 1194
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 6884
+Total writes to disk: 1167
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 6795
+Total writes to disk: 1153
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 6191
+Total writes to disk: 1122
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 5889
+Total writes to disk: 1062
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 5588
+Total writes to disk: 994
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 5531
+Total writes to disk: 956
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 5215
+Total writes to disk: 918
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 5206
+Total writes to disk: 921
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 5106
+Total writes to disk: 915
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 5105
+Total writes to disk: 918
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 4984
+Total writes to disk: 882
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 4911
+Total writes to disk: 857
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 4816
+Total writes to disk: 837
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 4685
+Total writes to disk: 834
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 4614
+Total writes to disk: 805
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 4516
+Total writes to disk: 790
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 4378
+Total writes to disk: 782
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 4240
+Total writes to disk: 769
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 4213
+Total writes to disk: 767
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 4170
+Total writes to disk: 768
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 4057
+Total writes to disk: 747
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 4056
+Total writes to disk: 747
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3977
+Total writes to disk: 710
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3901
+Total writes to disk: 719
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3844
+Total writes to disk: 698
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3775
+Total writes to disk: 701
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3659
+Total writes to disk: 671
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3622
+Total writes to disk: 669
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3558
+Total writes to disk: 628
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3573
+Total writes to disk: 657
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3386
+Total writes to disk: 643
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3389
+Total writes to disk: 637
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3306
+Total writes to disk: 622
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3335
+Total writes to disk: 606
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3174
+Total writes to disk: 610
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3246
+Total writes to disk: 607
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3194
+Total writes to disk: 616
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3186
+Total writes to disk: 602
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3056
+Total writes to disk: 608
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3062
+Total writes to disk: 587
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 3033
+Total writes to disk: 588
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2981
+Total writes to disk: 595
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2892
+Total writes to disk: 587
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2825
+Total writes to disk: 558
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2866
+Total writes to disk: 577
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2791
+Total writes to disk: 557
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2739
+Total writes to disk: 553
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2729
+Total writes to disk: 565
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2718
+Total writes to disk: 547
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2681
+Total writes to disk: 541
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2634
+Total writes to disk: 541
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2593
+Total writes to disk: 536
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2561
+Total writes to disk: 531
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2510
+Total writes to disk: 513
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2476
+Total writes to disk: 509
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2440
+Total writes to disk: 491
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2473
+Total writes to disk: 503
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2390
+Total writes to disk: 510
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2378
+Total writes to disk: 499
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2365
+Total writes to disk: 492
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2300
+Total writes to disk: 496
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2313
+Total writes to disk: 485
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2280
+Total writes to disk: 483
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2273
+Total writes to disk: 483
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2226
+Total writes to disk: 482
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2204
+Total writes to disk: 492
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2152
+Total writes to disk: 474
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2147
+Total writes to disk: 478
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2152
+Total writes to disk: 480
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2120
+Total writes to disk: 471
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2113
+Total writes to disk: 478
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2078
+Total writes to disk: 469
+Algorithm: AGING
+Number of frames: 32
+Total memory accesses: 515683
+Total page faults: 2092
+Total writes to disk: 480
+
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 18742
+Total writes to disk: 2158
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 14909
+Total writes to disk: 1911
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 13987
+Total writes to disk: 1845
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 13721
+Total writes to disk: 1633
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 12786
+Total writes to disk: 1322
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 10921
+Total writes to disk: 985
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 9825
+Total writes to disk: 825
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 9591
+Total writes to disk: 848
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 9866
+Total writes to disk: 1026
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 9902
+Total writes to disk: 1122
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 8526
+Total writes to disk: 818
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 8279
+Total writes to disk: 762
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 8207
+Total writes to disk: 788
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 7934
+Total writes to disk: 679
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 6474
+Total writes to disk: 667
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 6169
+Total writes to disk: 543
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 6128
+Total writes to disk: 583
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 6059
+Total writes to disk: 648
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 4982
+Total writes to disk: 561
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 4753
+Total writes to disk: 528
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 4735
+Total writes to disk: 486
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 4347
+Total writes to disk: 439
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 4306
+Total writes to disk: 433
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 4151
+Total writes to disk: 421
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 4033
+Total writes to disk: 401
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 3950
+Total writes to disk: 408
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 3813
+Total writes to disk: 366
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 3696
+Total writes to disk: 367
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 3574
+Total writes to disk: 369
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 3521
+Total writes to disk: 357
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 3266
+Total writes to disk: 318
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 3238
+Total writes to disk: 317
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 3128
+Total writes to disk: 297
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 3080
+Total writes to disk: 302
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 3055
+Total writes to disk: 308
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 3031
+Total writes to disk: 307
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 3066
+Total writes to disk: 325
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2994
+Total writes to disk: 312
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2889
+Total writes to disk: 312
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2943
+Total writes to disk: 313
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2858
+Total writes to disk: 302
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2734
+Total writes to disk: 296
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2648
+Total writes to disk: 295
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2593
+Total writes to disk: 288
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2565
+Total writes to disk: 283
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2506
+Total writes to disk: 286
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2484
+Total writes to disk: 277
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2457
+Total writes to disk: 273
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2474
+Total writes to disk: 277
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2414
+Total writes to disk: 269
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2368
+Total writes to disk: 271
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2303
+Total writes to disk: 278
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2216
+Total writes to disk: 265
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2226
+Total writes to disk: 271
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2199
+Total writes to disk: 268
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2154
+Total writes to disk: 262
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2065
+Total writes to disk: 268
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2055
+Total writes to disk: 266
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2001
+Total writes to disk: 267
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2030
+Total writes to disk: 266
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1939
+Total writes to disk: 266
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 2018
+Total writes to disk: 269
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1910
+Total writes to disk: 267
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1931
+Total writes to disk: 266
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1829
+Total writes to disk: 259
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1874
+Total writes to disk: 265
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1828
+Total writes to disk: 260
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1807
+Total writes to disk: 264
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1745
+Total writes to disk: 266
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1717
+Total writes to disk: 264
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1719
+Total writes to disk: 260
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1737
+Total writes to disk: 259
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1713
+Total writes to disk: 265
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1662
+Total writes to disk: 260
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1643
+Total writes to disk: 249
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1677
+Total writes to disk: 261
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1658
+Total writes to disk: 257
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1636
+Total writes to disk: 255
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1574
+Total writes to disk: 238
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1584
+Total writes to disk: 240
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1554
+Total writes to disk: 244
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1539
+Total writes to disk: 245
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1534
+Total writes to disk: 244
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1475
+Total writes to disk: 236
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1530
+Total writes to disk: 244
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1500
+Total writes to disk: 239
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1473
+Total writes to disk: 238
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1456
+Total writes to disk: 237
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1453
+Total writes to disk: 240
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1452
+Total writes to disk: 240
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1427
+Total writes to disk: 239
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1421
+Total writes to disk: 247
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1358
+Total writes to disk: 241
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1350
+Total writes to disk: 236
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1374
+Total writes to disk: 240
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1364
+Total writes to disk: 236
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1367
+Total writes to disk: 238
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1303
+Total writes to disk: 233
+Algorithm: AGING
+Number of frames: 64
+Total memory accesses: 515683
+Total page faults: 1341
+Total writes to disk: 241
+

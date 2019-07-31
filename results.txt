@@ -1,0 +1,135 @@
+--- ALGORITHM: opt, TRACEFILE: gcc.trace, FRAMES: 4 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: gcc.trace, FRAMES: 8 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: gcc.trace, FRAMES: 16 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: gcc.trace, FRAMES: 32 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: gcc.trace, FRAMES: 64 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: swim.trace, FRAMES: 4 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: swim.trace, FRAMES: 8 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: swim.trace, FRAMES: 16 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: swim.trace, FRAMES: 32 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: swim.trace, FRAMES: 64 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: gzip.trace, FRAMES: 4 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: gzip.trace, FRAMES: 8 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: gzip.trace, FRAMES: 16 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: gzip.trace, FRAMES: 32 ----
+
+
+--- ALGORITHM: opt, TRACEFILE: gzip.trace, FRAMES: 64 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: gcc.trace, FRAMES: 4 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: gcc.trace, FRAMES: 8 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: gcc.trace, FRAMES: 16 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: gcc.trace, FRAMES: 32 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: gcc.trace, FRAMES: 64 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: swim.trace, FRAMES: 4 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: swim.trace, FRAMES: 8 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: swim.trace, FRAMES: 16 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: swim.trace, FRAMES: 32 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: swim.trace, FRAMES: 64 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: gzip.trace, FRAMES: 4 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: gzip.trace, FRAMES: 8 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: gzip.trace, FRAMES: 16 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: gzip.trace, FRAMES: 32 ----
+
+
+--- ALGORITHM: aging, TRACEFILE: gzip.trace, FRAMES: 64 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: gcc.trace, FRAMES: 4 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: gcc.trace, FRAMES: 8 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: gcc.trace, FRAMES: 16 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: gcc.trace, FRAMES: 32 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: gcc.trace, FRAMES: 64 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: swim.trace, FRAMES: 4 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: swim.trace, FRAMES: 8 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: swim.trace, FRAMES: 16 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: swim.trace, FRAMES: 32 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: swim.trace, FRAMES: 64 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: gzip.trace, FRAMES: 4 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: gzip.trace, FRAMES: 8 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: gzip.trace, FRAMES: 16 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: gzip.trace, FRAMES: 32 ----
+
+
+--- ALGORITHM: fifo, TRACEFILE: gzip.trace, FRAMES: 64 ----
+
+
